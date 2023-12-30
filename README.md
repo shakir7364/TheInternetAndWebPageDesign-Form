@@ -1,2 +1,4 @@
-# TheInternetAndWebPageDesign-Form
- The Internet And Web Page Design Form Assignment
+# The Internet And Web Page Design Form Assignment
+This assignment serves as an introduction to the form element by showcasing two ways to collect user input using them. The forumEx.html file gets user text input and presents them with a submit and reset button which are additional input types. The submit type sends all data to a form-handler and the reset type resets all data fields of the form. It should also be noted that this assignment did not have us set up a form-handler to submit to and I misspelled form a couple of times in the file's name and page title. The checkBoxEx.html adds a style sheet and showcases the radio button input type.
+
+To view the websites yourself, download the AssignmentFiles.rar file and run the forumEx.html file and the checkBoxEx.html file.
